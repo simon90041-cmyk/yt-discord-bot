@@ -5,7 +5,7 @@ API_KEY = os.getenv("API_KEY")
 WEBHOOK = os.getenv("WEBHOOK")
 
 # 🔴 改成你的 Channel ID（UC開頭）
-CHANNEL_ID = "UCxxxxxxxxxxxxxxxx"
+CHANNEL_ID = "UCJitgRp8m5f07mngmtSQf-w"
 
 # 🔴 要標記的人（填 Discord ID）
 USERS = [
